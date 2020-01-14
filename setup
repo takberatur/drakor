@@ -1,11 +1,11 @@
 {
 "maintenance" : true,
 "isUpdate" : true,
-"logo" : "https://github.com/rebornmvie/rebornnew/raw/master/logobanner.png",
-"urlPromote" : "https://play.google.com/store/apps/details?id=com.dutafilm.indoxxihd.filmlayarkaca21",
-"titlePromote" : "HD Movies XXI",
+"logo" : "https://raw.githubusercontent.com/rebornmvie/x7/master/logoheader.png",
+"urlPromote" : "https://play.google.com/store/apps/details?id=com.nontonlayarkaca21.layarindoxxi.subindo",
+"titlePromote" : "Play PLIX XI",
 "descPromote" : "Please update new app, this old app will not support soon. Watch High Quality HD Movies",
-"thumbPromote" : "https://lh3.googleusercontent.com/jqDNBvN-oDogW8CLrLwbYtB4vLvttQ1BzyRNbCekHSJM86lo8VoTG4NaezgflmnGNA=s180-rw",
+"thumbPromote" : "https://raw.githubusercontent.com/rebornmvie/x7/master/icon.png",
 
 "adsInterval" : 5,
 "useFAN" : true
